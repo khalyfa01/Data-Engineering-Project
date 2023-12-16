@@ -17,6 +17,8 @@ Cette section traite de la mise en place d'une pipeline en Python pour traiter l
       - journal_mentions_analysis.py : Extraction du média mentionnant le plus de films différents depuis le fichier JSON généré
       - main.py : Module principal pour exécuter la pipeline
       - test.py : Tests unitaires pour valider le chargement des données,.. (Optionnel)
+   - output.json
+   - README_Project
 
 ### Exécution du Projet
 
