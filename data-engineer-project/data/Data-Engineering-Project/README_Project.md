@@ -1,7 +1,7 @@
 # Projet Data Engineer
 Ce projet vise à mettre en place une data pipeline pour traiter des données de films, d'articles de presse et de critiques, ainsi qu'à réaliser des requêtes SQL pour l'analyse d'applications, en utilisant un code clair et proprement structuré. Il se compose de deux parties principales : Python et Data Engineering, et SQL.
 
-## Python et Data Engineering
+## Python et Data Engineering 
 ### Description
 Cette section traite de la mise en place d'une pipeline en Python pour traiter les données de films, d'articles de presse et de critiques, afin de générer un fichier JSON récapitulant les mentions de films dans les différents médias. En utilisant un code clair, modifiable et réutilisable par d’autres data pipelines !
 
