@@ -1,0 +1,96 @@
+{
+    "movies_data": {
+        "id": {
+            "0": 1,
+            "1": 2,
+            "2": 3,
+            "3": 4,
+            "4": 5
+        },
+        "title": {
+            "0": "Gladiator",
+            "1": "Snatch",
+            "2": "Le chant du loup",
+            "3": "Titanic",
+            "4": "Intouchables"
+        }
+    },
+    "news_articles_data": {
+        "id": {
+            "0": 1,
+            "1": 2,
+            "2": 3,
+            "3": 4
+        },
+        "title": {
+            "0": "Qui fera mieux que Titanic pour les Oscars?",
+            "1": "De Gladiator à Master and Commander, retour sur Russell Crowe, la star du moment.",
+            "2": "Il faut absolument que vous alliez voir Intouchables.",
+            "3": "Snatch: ça faisait longtemps qu'on n'avait pas autant ri."
+        },
+        "date": {
+            "0": "01/01/2003",
+            "1": "01/01/2004",
+            "2": "02/11/2011",
+            "3": "14/10/2000"
+        },
+        "journal": {
+            "0": "Le Monde",
+            "1": "Libération",
+            "2": "Libération",
+            "3": "Le Figaro"
+        },
+        "mentions": {
+            "0": [
+                "Titanic"
+            ],
+            "1": [
+                "Gladiator"
+            ],
+            "2": [
+                "Intouchables"
+            ],
+            "3": [
+                "Snatch"
+            ]
+        }
+    },
+    "reviews_data": {
+        "id": {
+            "0": "A",
+            "1": "B",
+            "2": "C",
+            "3": "D"
+        },
+        "title": {
+            "0": "Le chant du loup: on reste sur notre faim",
+            "1": "Le film de la rentrée, c'est \\xc3\\xb1 Snatch",
+            "2": "  ",
+            "3": "Le Seigneur des Anneaux: le retour du roi égalise Titanic aus Oscars"
+        },
+        "date": {
+            "0": "1 January 2018",
+            "1": "1 Octobre 2002",
+            "2": "1 January 2020",
+            "3": "14 December 2003"
+        },
+        "media": {
+            "0": "Allo Cine",
+            "1": "Télé Magazine",
+            "2": "Allo Cine",
+            "3": "Movies  "
+        },
+        "mentions": {
+            "0": [
+                "Le chant du loup"
+            ],
+            "1": [
+                "Snatch"
+            ],
+            "2": [],
+            "3": [
+                "Titanic"
+            ]
+        }
+    }
+}
