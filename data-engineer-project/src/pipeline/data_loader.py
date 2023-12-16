@@ -20,7 +20,7 @@ def load_reviews_data(file_path):
 
 """ 
 Fonction générique pour charger des données & gestion des erreurs, 
-j'ai l'ajouté principalement pour gérer les erreurs de chargement des donnees
+j'ai l'ajouté pour gérer les erreurs de chargement des donnees
 sinon on peut faire simplement un : return pd.read_csv(file_path) dans les fonctions 
 précédentes sans faire appel à cette fonction :) 
 
